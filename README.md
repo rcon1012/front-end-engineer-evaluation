@@ -1,6 +1,6 @@
 # TreatWeather - Front-end Engineer Evaluation
 
-![Finished Design](https://gitlab.com/treatspace/developer/front-end-engineer-evaluation/blob/master/assets/img/FinishedDesign.png)
+<img src="https://gitlab.com/treatspace/developer/front-end-engineer-evaluation/raw/master/assets/img/FinishedDesign.png" />
 
 
 This project is designed to be a simple Front-end Engineer evaluation to allow us to get a first hand look at how job candidates think and approach a problem. As a company, we share the same beliefs as given in this talk by local Code & Supply member Zack Zlotnik: https://www.youtube.com/watch?v=aIrKC41NwC0
