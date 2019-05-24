@@ -10,6 +10,8 @@ Instead, we put together this simple evaluation process that will have you do a 
 
 A quick introduction of the minimial setup you need to get this application up and running. 
 
+Fork a copy of the project into your own repo, then:
+
 ```shell
 git clone https://gitlab.com/treatspace/developer/front-end-engineer-evaluation.git
 cd front-end-engineer-evaluation
@@ -48,7 +50,7 @@ We understand that many people already have full time jobs as well as a home lif
 
 
 ## When you are finished
-Once you've completed your code, create a merge request for your branch and we will review your code. If you have any other questions, feel free to reach out to Chad: chad.moyer@treatspace.com
+Once you've completed your code, email Chad (chad.moyer@treatspace.com) with a link to your repo to fork and review your code. If you have any questions regarding the project or if something was unclear, feel free to reach out and we'll get back to you as soon as we can!
 
 We look forward to talking with you!
 
